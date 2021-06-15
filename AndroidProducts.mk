@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_apollo.mk
+    $(LOCAL_DIR)/revengeos_apollo.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_apollo-user \
-    ssos_apollo-userdebug \
-    ssos_apollo-eng
+    revengeos_apollo-user \
+    revengeos_apollo-userdebug \
+    revengeos_apollo-eng
